@@ -1,0 +1,17 @@
+eid,ename,esal,dname,dlocation
+1,Amit,30000,HR,Delhi
+2,Amit,55000,HR,Delhi
+3,Rahul,60000,HR,Delhi
+4,Priya,45000,Finance,Mumbai
+5,Rahul,60000,Finance,Mumbai
+6,Sneha,50000,IT,Bangalore
+7,Karan,48000,IT,Bangalore
+8,Priya,45000,IT,Bangalore
+9,Neha,52000,IT,Bangalore
+10,Amit,50000,Marketing,Hyderabad
+11,Vikas,60000,Marketing,Hyderabad
+12,Sneha,52000,Support,Chennai
+13,Karan,48000,Support,Chennai
+14,Pooja,45000,Support,Chennai
+15,Neha,52000,Support,Chennai
+16,Amit,60000,Support,Chennai
